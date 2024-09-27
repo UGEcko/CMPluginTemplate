@@ -1,0 +1,24 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CEverythingSaber_005CEditors_005CChromapperV0_002E10_005Cchromapper_005CChroMapper_005FData_005CManaged_005C0Harmony_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CEverythingSaber_005CEditors_005CChromapperV0_002E10_005Cchromapper_005CChroMapper_005FData_005CManaged_005CIntersections_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CEverythingSaber_005CEditors_005CChromapperV0_002E10_005Cchromapper_005CChroMapper_005FData_005CManaged_005CMain_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CEverythingSaber_005CEditors_005CChromapperV0_002E10_005Cchromapper_005CChroMapper_005FData_005CManaged_005CMono_002ECecil_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CEverythingSaber_005CEditors_005CChromapperV0_002E10_005Cchromapper_005CChroMapper_005FData_005CManaged_005CPlugins_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CEverythingSaber_005CEditors_005CChromapperV0_002E10_005Cchromapper_005CChroMapper_005FData_005CManaged_005CUnity_002ETextMeshPro_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CEverythingSaber_005CEditors_005CChromapperV0_002E10_005Cchromapper_005CChroMapper_005FData_005CManaged_005CUnityEngine_002EAnimationModule_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CEverythingSaber_005CEditors_005CChromapperV0_002E10_005Cchromapper_005CChroMapper_005FData_005CManaged_005CUnityEngine_002EAssetBundleModule_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CEverythingSaber_005CEditors_005CChromapperV0_002E10_005Cchromapper_005CChroMapper_005FData_005CManaged_005CUnityEngine_002ECoreModule_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CEverythingSaber_005CEditors_005CChromapperV0_002E10_005Cchromapper_005CChroMapper_005FData_005CManaged_005CUnityEngine_002EInputLegacyModule_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\EverythingSaber\Editors\ChromapperV0.10\chromapper\ChroMapper_Data\Managed\0Harmony.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\EverythingSaber\Editors\ChromapperV0.10\chromapper\ChroMapper_Data\Managed\Intersections.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\EverythingSaber\Editors\ChromapperV0.10\chromapper\ChroMapper_Data\Managed\Plugins.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\EverythingSaber\Editors\ChromapperV0.10\chromapper\ChroMapper_Data\Managed\Unity.TextMeshPro.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\EverythingSaber\Editors\ChromapperV0.10\chromapper\ChroMapper_Data\Managed\UnityEngine.AnimationModule.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\EverythingSaber\Editors\ChromapperV0.10\chromapper\ChroMapper_Data\Managed\UnityEngine.AssetBundleModule.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\EverythingSaber\Editors\ChromapperV0.10\chromapper\ChroMapper_Data\Managed\UnityEngine.CoreModule.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\EverythingSaber\Editors\ChromapperV0.10\chromapper\ChroMapper_Data\Managed\UnityEngine.InputLegacyModule.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\EverythingSaber\Editors\ChromapperV0.10\chromapper\ChroMapper_Data\Managed\UnityEngine.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	
+	</wpf:ResourceDictionary>
